@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.3)  5 JAN 2015 19:19
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.3)  5 JAN 2015 19:56
 entering extended mode
 **C:/Users/Véro*2/Documents/GitHub/bio-informatique-rapport-2/rapport*bio*2/ra
 pport*main.tex
@@ -718,14 +718,14 @@ Package microtype Info: Loading generic settings for font family
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}])
 ("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\rapport bio 2\me
-sh.tex" [2] <nuagepoint.png, id=17, 508.14844pt x 138.5175pt>
+sh.tex" [2] <nuagepoint.png, id=16, 508.14844pt x 138.5175pt>
 File: nuagepoint.png Graphic file (type png)
 
 <use nuagepoint.png>
-Package pdftex.def Info: nuagepoint.png used on input line 21.
+Package pdftex.def Info: nuagepoint.png used on input line 23.
 (pdftex.def)             Requested size: 508.14719pt x 138.51715pt.
 
-Overfull \hbox (89.89163pt too wide) in paragraph at lines 19--22
+Overfull \hbox (89.89163pt too wide) in paragraph at lines 21--24
  [] 
  []
 
@@ -733,8 +733,9 @@ Overfull \hbox (89.89163pt too wide) in paragraph at lines 19--22
 ("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\rapport bio 2\tr
 anscriptionregulation.tex")
 ("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\rapport bio 2\al
-lelespecificbinding.tex"
-<grapheBestAllele.png, id=18, 197.23688pt x 197.98969pt>
+lelespecificbinding.tex" [3 <C:/Users/Véro 2/Documents/GitHub/bio-informatique
+-rapport-2/rapport bio 2/nuagepoint.png>]
+<grapheBestAllele.png, id=21, 197.23688pt x 197.98969pt>
 File: grapheBestAllele.png Graphic file (type png)
 
 <use grapheBestAllele.png>
@@ -745,36 +746,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--25
 
  []
 
-[3 <C:/Users/Véro 2/Documents/GitHub/bio-informatique-rapport-2/rapport bio 2/
-nuagepoint.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 27--34
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--45
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--45
-
- []
-
 [4 <C:/Users/Véro 2/Documents/GitHub/bio-informatique-rapport-2/rapport bio 2/
-grapheBestAllele.png>])
+grapheBestAllele.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 36--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--45
+
+ []
+
+)
 ("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\rapport bio 2\pe
-rspectiveconclusion.tex") [5]
+rspectiveconclusion.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+
+ []
+
+) [5]
 ("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\rapport bio 2\ra
 pport main.aux") ) 
 Here is how much of TeX's memory you used:
- 7801 strings out of 493921
- 123751 string characters out of 3144924
+ 7809 strings out of 493921
+ 123807 string characters out of 3144924
  263144 words of memory out of 3000000
  10859 multiletter control sequences out of 15000+200000
- 26331 words of font info for 102 fonts, out of 3000000 for 9000
+ 26535 words of font info for 106 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 54i,12n,47p,591b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 54i,11n,47p,614b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8
 r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchb8a.pf
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C
@@ -787,7 +797,7 @@ s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
 (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x
 86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86
 )/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "rapport main.pdf" (5 pages, 197438 bytes).
+Output written on "rapport main.pdf" (5 pages, 198987 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
