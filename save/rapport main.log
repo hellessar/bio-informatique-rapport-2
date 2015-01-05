@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.3)  5 JAN 2015 18:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.3)  5 JAN 2015 19:09
 entering extended mode
-**C:/Users/Véro*2/Documents/GitHub/bio-informatique-rapport-2/rapport*bio*2/ra
-pport*main.tex
+**C:/Users/Véro*2/Documents/GitHub/bio-informatique-rapport-2/save/rapport*mai
+n.tex
 
-("C:/Users/Véro 2/Documents/GitHub/bio-informatique-rapport-2/rapport bio 2/ra
-pport main.tex"
+("C:/Users/Véro 2/Documents/GitHub/bio-informatique-rapport-2/save/rapport mai
+n.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -622,8 +622,8 @@ Class scrartcl Warning: Usage of package `fancyhdr' together
 \f@ncyO@olf=\skip67
 \f@ncyO@orf=\skip68
 )
-("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\rapport bio 2\ra
-pport main.aux")
+("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\save\rapport mai
+n.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
 LaTeX Font Info:    ... okay on input line 100.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
@@ -646,8 +646,7 @@ Package microtype Info: Using default expansion set `basictext'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
@@ -700,10 +699,14 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\rapport bio 2\ge
-nomesequencing.tex")
-("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\rapport bio 2\me
-sh.tex" <nuagepoint.png, id=1, 508.14844pt x 138.5175pt>
+("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\save\genomeseque
+ncing.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 103--1
+
+ []
+
+) ("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\save\mesh.tex"
+<nuagepoint.png, id=1, 508.14844pt x 138.5175pt>
 File: nuagepoint.png Graphic file (type png)
  <use nuagepoint.png>
 Package pdftex.def Info: nuagepoint.png used on input line 21.
@@ -713,22 +716,20 @@ Overfull \hbox (89.89163pt too wide) in paragraph at lines 19--22
  [] 
  []
 
-)
-("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\rapport bio 2\tr
-anscriptionregulation.tex")
-("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\rapport bio 2\al
-lelespecificbinding.tex"
 Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [1
+[1
 
 
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] <grapheBestAllele.png, id
-=12, 197.23688pt x 197.98969pt>
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}])
+("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\save\transcripti
+onregulation.tex")
+("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\save\allelespeci
+ficbinding.tex" <grapheBestAllele.png, id=12, 197.23688pt x 197.98969pt>
 File: grapheBestAllele.png Graphic file (type png)
 
 <use grapheBestAllele.png>
@@ -739,49 +740,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--25
 
  []
 
-
+[2 <C:/Users/Véro 2/Documents/GitHub/bio-informatique-rapport-2/save/nuagepoin
+t.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 27--34
 
  []
 
-[2 <C:/Users/Véro 2/Documents/GitHub/bio-informatique-rapport-2/rapport bio 2/
-nuagepoint.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 36--45
-
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 36--45
 
  []
 
-)
-("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\rapport bio 2\pe
-rspectiveconclusion.tex") [3 <C:/Users/Véro 2/Documents/GitHub/bio-informatiqu
-e-rapport-2/rapport bio 2/grapheBestAllele.png>]
-("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\rapport bio 2\ra
-pport main.aux") ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--45
+
+ []
+
+[3 <C:/Users/Véro 2/Documents/GitHub/bio-informatique-rapport-2/save/grapheBes
+tAllele.png>])
+("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\save\perspective
+conclusion.tex") [4]
+("C:\Users\Véro 2\Documents\GitHub\bio-informatique-rapport-2\save\rapport mai
+n.aux") ) 
 Here is how much of TeX's memory you used:
- 7782 strings out of 493921
- 123604 string characters out of 3144924
+ 7787 strings out of 493921
+ 123488 string characters out of 3144924
  263144 words of memory out of 3000000
- 10858 multiletter control sequences out of 15000+200000
- 25872 words of font info for 93 fonts, out of 3000000 for 9000
+ 10859 multiletter control sequences out of 15000+200000
+ 25974 words of font info for 95 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 54i,11n,47p,591b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8
-r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchb8a.pf
-b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
-Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "rapport main.pdf" (3 pages, 171835 bytes).
+ 54i,11n,47p,582b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on "rapport main.pdf" (4 pages, 173573 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
+ 54 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23051 words of extra memory for PDF output out of 24883 (max. 10000000)
 
